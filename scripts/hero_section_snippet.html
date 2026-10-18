@@ -1,0 +1,299 @@
+ime);
+
+    } else {
+
+      if (video) video.play();
+
+
+
+      currentSegment.style.transition = `width ${remainingTime / 1000}s linear`;
+
+      currentSegment.style.width = "100%";
+
+
+
+      startTime = Date.now();
+
+      timer = setTimeout(nextStory, remainingTime);
+
+    }
+
+  });
+
+
+
+  /* ---------- EVENTS ---------- */
+
+  storyLogo.forEach(story => story.addEventListener("click", openStory));
+
+  closeBtn.addEventListener("click", closeStory);
+
+  nextBtn.addEventListener("click", nextStory);
+
+  prevBtn.addEventListener("click", prevStory);
+
+
+
+
+
+  let startY = 0;
+
+
+
+  swapContanier.addEventListener("touchstart", (e) => {
+
+    startY = e.touches[0].clientY;
+
+  });
+
+
+
+  swapContanier.addEventListener("touchmove", (e) => {
+
+    const currentY = e.touches[0].clientY;
+
+    const deltaY = currentY - startY;
+
+    closeStory()
+
+  });
+
+
+
+});
+
+
+
+</script>
+
+
+
+
+
+</div>
+<!-- END sections: header-group -->
+
+    <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
+      <div id="shopify-section-template--21947293434046__hero_slider_bWMyy9" class="shopify-section"><!-- Swiper CSS -->
+
+
+
+<link href="//www.nishorama.com/cdn/shop/t/231/assets/cust-gallery-hero.css?v=90739482643005912161788759055" rel="stylesheet" type="text/css" media="all" />
+
+
+
+<div class="swiper cust-gallery-hero">
+
+  <div class="swiper-wrapper">
+
+
+
+    
+
+      <div
+
+        class="swiper-slide"
+
+        
+
+      >
+
+
+            <img
+
+                    src="//www.nishorama.com/cdn/shop/files/NAVRATRI_1.png?v=1790749616"
+
+                    class="desktop"
+
+                >
+
+          
+
+          
+
+                <img
+
+                        src="//www.nishorama.com/cdn/shop/files/HERO_BANNER_mob_-_falguni.png?v=1792060051"
+
+                        class="mobile"
+
+                    >
+
+          
+
+
+
+        
+
+        <a href="/collections/nishotsav2" class="gallery-banner-link">NISHOTSAV2</a>
+
+      </div>
+
+    
+
+      <div
+
+        class="swiper-slide"
+
+        
+
+      >
+
+
+            <img
+
+                    src="//www.nishorama.com/cdn/shop/files/ISHQ_1.png?v=1790750714"
+
+                    class="desktop"
+
+                >
+
+          
+
+          
+
+                <img
+
+                        src="//www.nishorama.com/cdn/shop/files/HERO_BANNER_mob_-_meherzeen.png?v=1792060064"
+
+                        class="mobile"
+
+                    >
+
+          
+
+
+
+        
+
+        <a href="/collections/shop-all" class="gallery-banner-link">Shop All</a>
+
+      </div>
+
+    
+
+      <div
+
+        class="swiper-slide"
+
+        
+
+      >
+
+
+            <img
+
+                    src="//www.nishorama.com/cdn/shop/files/AABH_1.png?v=1790750694"
+
+                    class="desktop"
+
+                >
+
+          
+
+          
+
+                <img
+
+                        src="//www.nishorama.com/cdn/shop/files/AABH.png?v=1790750635"
+
+                        class="mobile"
+
+                    >
+
+          
+
+
+
+        
+
+        <a href="/collections/most-wanted" class="gallery-banner-link">Most wanted</a>
+
+      </div>
+
+    
+
+
+
+  </div>
+
+
+
+  <!-- Pagination -->
+
+  <div class="swiper-pagination"></div>
+
+
+
+</div>
+
+
+
+
+
+<script>
+
+  document.addEventListener('DOMContentLoaded', function () {
+
+
+
+    new Swiper('.cust-gallery-hero', {
+
+        spaceBetween: 0,
+
+      loop: true,
+
+
+
+      effect: 'fade',
+
+
+
+      speed: 800, 
+
+
+
+      autoplay: {
+
+        delay: 4000,
+
+        disableOnInteraction: false,
+
+      },
+
+
+
+      fadeEffect: {
+
+        crossFade: true,
+
+      },
+
+
+
+      pagination: {
+
+        el: '.cust-gallery-hero .swiper-pagination',
+
+        clickable: true,
+
+      },
+
+
+
+    });
+
+
+
+  });
+
+</script>
+
+
+
+
+
+
+
+</div><section id="shopify-section-template--21947293434046__featured_collection_84Ctkq" class="shopify-section section"><link href="//www.nishorama.com/cdn/shop/t/231/assets/component-card.css?v=120341546515895839841786705460" rel="stylesheet" type="text/css" media="all" />
+<link href="//www.nishorama.com/cdn/shop/t/231/assets/component-price.cs

@@ -1,0 +1,297 @@
+id currentSegment.offsetWidth;
+
+    currentSegment.style.transition = `width ${duration / 1000}s linear`;
+
+    currentSegment.style.width = "100%";
+
+
+
+    const slide = slider.children[currentStory];
+
+    const video = slide.querySelector("video");
+
+
+
+    if (video) {
+
+      video.pause();
+
+      video.currentTime = 0;
+
+      video.muted = false;
+
+      video.play().catch(() => {
+
+        // autoplay blocked, ignore
+
+      });
+
+    }
+
+
+
+    isPaused = false;
+
+    storyPauseBtn.classList.add("pause");
+
+
+
+    clearTimeout(timer);
+
+    remainingTime = duration;
+
+    startTime = Date.now();
+
+    timer = setTimeout(nextStory, duration);
+
+
+
+    saveStoryState();
+
+  }
+
+
+
+  /* ---------- NEXT / PREV ---------- */
+
+  function nextStory() {
+
+    if (currentStory < stories.length - 1) {
+
+      document.querySelectorAll(".story-full-media").forEach((v)=>{
+
+        v.pause();
+
+      })
+
+      currentStory++;
+
+      lastStoryIndex = currentStory;
+
+      saveStoryState();
+
+      loadStory();
+
+    } else {
+
+      // ✅ LAST STORY END
+
+      currentStory = 0;
+
+      lastStoryIndex = 0;
+
+      sessionStorage.removeItem(STORAGE_CURRENT);
+
+      sessionStorage.removeItem(STORAGE_LAST);
+
+
+
+      clearTimeout(timer);
+
+      closeStory()
+
+      
+
+
+
+    const video = slider.querySelector("video");
+
+    if (video){
+
+      video.muted = true;
+
+      video.pause();
+
+      video.currentTime = 0;
+
+    }
+
+    }
+
+  }
+
+
+
+  function prevStory() {
+
+    if (currentStory > 0) {
+
+      currentStory--;
+
+      document.querySelectorAll(".story-full-media").forEach((v)=>{
+
+        v.pause();
+
+      })
+
+      lastStoryIndex = currentStory;
+
+      saveStoryState();
+
+      loadStory();
+
+    }
+
+  }
+
+
+
+  /* ---------- OPEN / CLOSE ---------- */
+
+  function openStory() {
+
+    loadStoryState();
+
+    lenis.stop();
+
+    viewer.classList.add("active");
+
+    currentStory = lastStoryIndex;
+
+
+
+    isPaused = false;
+
+    storyPauseBtn.classList.add("pause");
+
+    setTimeout(loadStory, 50);
+
+  }
+
+
+
+  function closeStory() {
+
+    document.querySelectorAll(".story-full-media").forEach((v)=>{
+
+      v.pause();
+
+    })
+
+    document.querySelector(".story-viewer").classList.remove("active");
+
+    clearTimeout(timer);
+
+    const video = slider.querySelector("video");
+
+    if (video) video.pause();
+
+    lenis.start();
+
+    saveStoryState();
+
+  }
+
+
+
+  /* ---------- PLAY / PAUSE ---------- */
+
+  storyPauseBtn.addEventListener("click", () => {
+
+    isPaused = !isPaused;
+
+    storyPauseBtn.classList.toggle("pause", !isPaused);
+
+
+
+    const slide = slider.children[currentStory];
+
+    const video = slide.querySelector("video");
+
+    const currentSegment = progressSegments[currentStory];
+
+
+
+    if (isPaused) {
+
+      clearTimeout(timer);
+
+      if (video) video.pause();
+
+
+
+      const computedWidth = parseFloat(getComputedStyle(currentSegment).width);
+
+      const parentWidth = parseFloat(getComputedStyle(currentSegment.parentElement).width);
+
+      const percent = (computedWidth / parentWidth) * 100;
+
+
+
+      currentSegment.style.transition = "none";
+
+      currentSegment.style.width = percent + "%";
+
+      remainingTime -= (Date.now() - startTime);
+
+    } else {
+
+      if (video) video.play();
+
+
+
+      currentSegment.style.transition = `width ${remainingTime / 1000}s linear`;
+
+      currentSegment.style.width = "100%";
+
+
+
+      startTime = Date.now();
+
+      timer = setTimeout(nextStory, remainingTime);
+
+    }
+
+  });
+
+
+
+  /* ---------- EVENTS ---------- */
+
+  storyLogo.forEach(story => story.addEventListener("click", openStory));
+
+  closeBtn.addEventListener("click", closeStory);
+
+  nextBtn.addEventListener("click", nextStory);
+
+  prevBtn.addEventListener("click", prevStory);
+
+
+
+
+
+  let startY = 0;
+
+
+
+  swapContanier.addEventListener("touchstart", (e) => {
+
+    startY = e.touches[0].clientY;
+
+  });
+
+
+
+  swapContanier.addEventListener("touchmove", (e) => {
+
+    const currentY = e.touches[0].clientY;
+
+    const deltaY = currentY - startY;
+
+    closeStory()
+
+  });
+
+
+
+});
+
+
+
+</script>
+
+
+
+
+
+</div>

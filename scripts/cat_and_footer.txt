@@ -1,0 +1,1236 @@
+=== CATEGORY CIRCLES HTML ===
+shopify-section-template--29613230948724__cust_category_fyVBqB" class="shopify-section"><link href="//row.nishorama.com/cdn/shop/t/42/assets/cust-category.css?v=99930801689366386361791918496" rel="stylesheet" type="text/css" media="all" />
+
+<section class="home-category-section">
+
+  <div class="home-category-container">
+
+    <div class="home-category-header">
+
+      <div class="home-category-heading">
+        
+          <h2 style="--current-block-size: '(12)';">Categories</h2>
+        
+
+        
+      </div>
+
+      
+        <a
+          href="/collections/shop-all"
+          class="home-category-shop"
+        >
+          Shop
+        </a>
+      
+
+    </div>
+
+
+    <div class="home-category-grid">
+
+      
+
+        
+
+        
+
+          <a
+            href="/collections/tops"
+            class="home-category-card"
+            
+          >
+
+            <div class="home-category-image">
+
+              
+
+                <img src="//row.nishorama.com/cdn/shop/files/TOPS_a987ef69-63f5-459d-9bba-74a6e23e1050.jpg?v=1790258778&amp;width=600" alt="Tops" srcset="//row.nishorama.com/cdn/shop/files/TOPS_a987ef69-63f5-459d-9bba-74a6e23e1050.jpg?v=1790258778&amp;width=352 352w, //row.nishorama.com/cdn/shop/files/TOPS_a987ef69-63f5-459d-9bba-74a6e23e1050.jpg?v=1790258778&amp;width=600 600w" width="600" height="750" loading="lazy">
+
+              
+
+            </div>
+
+
+            <div class="home-category-info">
+
+              <h3 style="--product-count: '(238)';" class="home-category-title">
+                
+                 Tops
+              </h3>
+
+              
+
+            </div>
+
+          </a>
+
+        
+
+      
+
+        
+
+        
+
+          <a
+            href="/collections/sleeveless-1"
+            class="home-category-card"
+            
+          >
+
+            <div class="home-category-image">
+
+              
+
+                <img src="//row.nishorama.com/cdn/shop/files/SLEEVLESS.jpg?v=1790258778&amp;width=600" alt="sleeveless" srcset="//row.nishorama.com/cdn/shop/files/SLEEVLESS.jpg?v=1790258778&amp;width=352 352w, //row.nishorama.com/cdn/shop/files/SLEEVLESS.jpg?v=1790258778&amp;width=600 600w" width="600" height="750" loading="lazy">
+
+              
+
+            </div>
+
+
+            <div class="home-category-info">
+
+              <h3 style="--product-count: '(123)';" class="home-category-title">
+                
+                 Sleevless
+              </h3>
+
+              
+
+            </div>
+
+          </a>
+
+        
+
+      
+
+        
+
+        
+
+          <a
+            href="/collections/deep-back"
+            class="home-category-card"
+            
+          >
+
+            <div class="home-category-image">
+
+              
+
+                <img src="//row.nishorama.com/cdn/shop/files/KURTI_TOP.jpg?v=1790258779&amp;width=600" alt="Deep Back Kurti" srcset="//row.nishorama.com/cdn/shop/files/KURTI_TOP.jpg?v=1790258779&amp;width=352 352w, //row.nishorama.com/cdn/shop/files/KURTI_TOP.jpg?v=1790258779&amp;width=600 600w" width="600" height="750" loading="lazy">
+
+              
+
+            </div>
+
+
+            <div class="home-category-info">
+
+              <h3 style="--product-count: '(37)';" class="home-category-title">
+                
+                 Deep Back
+              </h3>
+
+              
+
+            </div>
+
+          </a>
+
+        
+
+      
+
+        
+
+        
+
+          <a
+            href="/collections/corset-tops"
+            class="home-category-card"
+            
+          >
+
+            <div class="home-category-image">
+
+              
+
+                <img src="//row.nishorama.com/cdn/shop/files/CORSET.jpg?v=1790258779&amp;width=600" alt="Corset Tops" srcset="//row.nishorama.com/cdn/shop/files/CORSET.jpg?v=1790258779&amp;width=352 352w, //row.nishorama.com/cdn/shop/files/CORSET.jpg?v=1790258779&amp;width=600 600w" width="600" height="750" loading="lazy">
+
+              
+
+            </div>
+
+
+            <div class="home-category-info">
+
+              <h3 style="--product-count: '(87)';" class="home-category-title">
+                
+                 Corset
+              </h3>
+
+              
+
+            </div>
+
+          </a>
+
+        
+
+      
+
+        
+
+        
+
+          <a
+            href="/collections/dresses"
+            class="home-category-card"
+            
+          >
+
+            <div class="home-category-image">
+
+              
+
+                <img src="//row.nishorama.com/cdn/shop/files/DRESSES.jpg?v=1790258778&amp;width=600" alt="Dresses" srcset="//row.nishorama.com/cdn/shop/files/DRESSES.jpg?v=1790258778&amp;width=352 352w, //row.nishorama.com/cdn/shop/files/DRESSES.jpg?v=1790258778&amp;width=600 600w" width="600" height="750" loading="lazy">
+
+              
+
+            </div>
+
+
+            <div class="home-category-info">
+
+              <h3 style="--product-count: '(48)';" class="home-category-title">
+                
+                 Dresses
+              </h3>
+
+              
+
+            </div>
+
+          </a>
+
+        
+
+      
+
+        
+
+        
+
+          <a
+            href="/collections/sets"
+            class="home-category-card"
+            
+          >
+
+            <div class="home-category-image">
+
+              
+
+                <img src="//row.nishorama.com/cdn/shop/files/SETSjpg.jpg?v=1790258778&amp;width=600" alt="Sets" srcset="//row.nishorama.com/cdn/shop/files/SETSjpg.jpg?v=1790258778&amp;width=352 352w, //row.nishorama.com/cdn/shop/files/SETSjpg.jpg?v=1790258778&amp;width=600 600w" width="600" height="750" loading="lazy">
+
+              
+
+            </div>
+
+
+            <div class="home-category-info">
+
+              <h3 style="--product-count: '(44)';" class="home-category-title">
+                
+                 Sets
+              </h3>
+
+              
+
+            </div>
+
+          </a>
+
+        
+
+      
+
+        
+
+        
+
+          <a
+            href="/collections/short-kurti"
+            class="home-category-card"
+            
+          >
+
+            <div class="home-category-image">
+
+              
+
+                <img src="//row.nishorama.com/cdn/shop/files/KURTI_TOP_1.jpg?v=1790258778&amp;width=600" alt="short-kurti" srcset="//row.nishorama.com/cdn/shop/files/KURTI_TOP_1.jpg?v=1790258778&amp;width=352 352w, //row.nishorama.com/cdn/shop/files/KURTI_TOP_1.jpg?v=1790258778&amp;width=600 600w" width="600" height="750" loading="lazy">
+
+              
+
+            </div>
+
+
+            <div class="home-category-info">
+
+              <h3 style="--product-count: '(17)';" class="home-category-title">
+                
+                 Short Kurti
+              </h3>
+
+              
+
+            </div>
+
+          </a>
+
+        
+
+      
+
+        
+
+        
+
+          <a
+            href="/collections/pants"
+            class="home-category-card"
+            
+          >
+
+            <div class="home-category-image">
+
+              
+
+                <img src="//row.nishorama.com/cdn/shop/files/PANTS.jpg?v=1790258779&amp;width=600" alt="pants" srcset="//row.nishorama.com/cdn/shop/files/PANTS.jpg?v=1790258779&amp;width=352 352w, //row.nishorama.com/cdn/shop/files/PANTS.jpg?v=1790258779&amp;width=600 600w" width="600" height="750" loading="lazy">
+
+              
+
+            </div>
+
+
+            <div class="home-category-info">
+
+              <h3 style="--product-count: '(19)';" class="home-category-title">
+                
+                 Pants
+              </h3>
+
+              
+
+            </div>
+
+          </a>
+
+        
+
+      
+
+        
+
+        
+
+          <a
+            href="/collections/accessories"
+            class="home-category-card"
+            
+          >
+
+            <div class="home-category-image">
+
+              
+
+                <img src="//row.nishorama.com/cdn/shop/files/ACCESSORIES.jpg?v=1790258779&amp;width=600" alt="Accessories" srcset="//row.nishorama.com/cdn/shop/files/ACCESSORIES.jpg?v=1790258779&amp;width=352 352w, //row.nishorama.com/cdn/shop/files/ACCESSORIES.jpg?v=1790258779&amp;width=600 600w" width="600" height="750" loading="lazy">
+
+              
+
+            </div>
+
+
+            <div class="home-category-info">
+
+              <h3 style="--product-count: '(52)';" class="home-category-title">
+                
+                 Accessories
+              </h3>
+
+              
+
+            </div>
+
+          </a>
+
+        
+
+      
+
+        
+
+        
+
+          <a
+            href="/collections/long-kurti"
+            class="home-category-card"
+            
+          >
+
+            <div class="home-category-image">
+
+              
+
+                <img src="//row.nishorama.com/cdn/shop/files/LONG_KURTI.jpg?v=1790258778&amp;width=600" alt="Long Kurti" srcset="//row.nishorama.com/cdn/shop/files/LONG_KURTI.jpg?v=1790258778&amp;width=352 352w, //row.nishorama.com/cdn/shop/files/LONG_KURTI.jpg?v=1790258778&amp;width=600 600w" width="600" height="750" loading="lazy">
+
+              
+
+            </div>
+
+
+            <div class="home-category-info">
+
+              <h3 style="--product-count: '(16)';" class="home-category-title">
+                
+                 Long Kurti
+              </h3>
+
+              
+
+            </div>
+
+          </a>
+
+        
+
+      
+
+        
+
+        
+
+          <a
+            href="/collections/skirt"
+            class="home-category-card"
+            
+          >
+
+            <div class="home-category-image">
+
+              
+
+                <img src="//row.nishorama.com/cdn/shop/files/SKIRT.jpg?v=1790258778&amp;width=600" alt="Skirt" srcset="//row.nishorama.com/cdn/shop/files/SKIRT.jpg?v=1790258778&amp;width=352 352w, //row.nishorama.com/cdn/shop/files/SKIRT.jpg?v=1790258778&amp;width=600 600w" width="600" height="750" loading="lazy">
+
+              
+
+            </div>
+
+
+            <div class="home-category-info">
+
+              <h3 style="--product-count: '(23)';" class="home-category-title">
+                
+                 Skirt
+              </h3>
+
+              
+
+            </div>
+
+          </a>
+
+        
+
+      
+
+        
+
+        
+
+          <a
+            href="/collections/bottoms"
+            class="home-category-card"
+            
+          >
+
+            <div class="home-category-image">
+
+              
+
+                <img src="//row.nishorama.com/cdn/shop/files/BOTTOMS.jpg?v=1790258778&amp;width=600" alt="Bottoms" srcset="//row.nishorama.com/cdn/shop/files/BOTTOMS.jpg?v=1790258778&amp;width=352 352w, //row.nishorama.com/cdn/shop/files/BOTTOMS.jpg?v=1790258778&amp;width=600 600w" width="600" height="750" loading="lazy">
+
+              
+
+            </div>
+
+
+            <div class="home-category-info">
+
+              <h3 style="--product-count: '(34)';" class="home-category-title">
+                
+                 Bottoms
+              </h3>
+
+              
+
+            </div>
+
+          </a>
+
+        
+
+      
+
+    </div>
+
+  </div>
+
+</section>
+
+
+</div><section id="
+
+=== STORY HTML ===
+shopify-section-sections--29613230686580__story_section_a3t6nG" class="shopify-section shopify-section-group-header-group"><style>
+    /* Media */
+    video, img {
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+    }
+
+    /* STORY VIEWER */
+    .story-viewer {
+      position: fixed;
+      inset: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: rgba(0,0,0,0);
+      opacity: 0;
+      pointer-events: none;
+      transition: background 0.35s ease, opacity 0.35s ease;
+      z-index: 3;
+    }
+
+    .story-viewer.active {
+background: rgb(0 0 0 / 65%);
+    opacity: 1;
+    pointer-events: auto;
+    backdrop-filter: blur(8px);
+    }
+
+    .story-viewer-main {
+      height: 100%;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+    }
+
+    .story-viewer-close {
+    position: absolute;
+        right: 2vw;
+        top: 1.3vw;
+        color: #fff;
+        cursor: pointer;
+        height: 2vw;
+        justify-content: center;
+        width: 2vw;
+        z-index: 2;
+        display: flex;
+    }
+    .story-viewer-close span{
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      height:1.5vw;
+      width:1.5vw;
+
+    }
+    .story-viewer-close span svg{
+      height:100%;
+      width:100%;
+    }
+    /* Container & Slider */
+    .story-viewer-container {
+      aspect-ratio: 3 / 5;
+      height: 85svh;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .story-inner-slider {
+      height: 100%;
+      width: 100%;
+      display: flex;
+      transition: transform 0.45s ease;
+    }
+
+    .story-slide {
+      min-width: 100%;
+      height: 100%;
+      position: relative;
+    }
+
+    .story-title {
+      position: absolute;
+      top: 1vw;
+      left: 1.5vw;
+      text-transform:uppercase;
+      z-index: 15;
+      font-size: 1vw;
+      font-weight: bold;
+      color: #fff;
+      mix-blend-mode: difference;
+      font-family: 'Archivo';
+    }
+
+    .story-full-media {
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+      border-radius: 10px;
+    }
+
+    /* Navigation */
+    .story-viewer-navigation {
+      position: absolute;
+      top: 50%;
+      width: 100%;
+      transform: translateY(-50%);
+    }
+
+    .story-prev, .story-next {
+cursor: pointer;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    height: 3vw;
+    width: 3vw;
+    color: #000;
+    background: #cececeb8;
+    border-radius: 50%;
+    font-size: 1.5vw;
+    user-select: none;
+    transition: 0.2s;
+    line-height: 0.8;
+    font-family: 'Archivo';
+    }
+
+    .story-prev { left: calc(50% - 35vh); position:absolute; }
+    .story-next { right: calc(50% - 35vh); position:absolute; }
+
+    /* Progress Bar */
+    .story-progress-container {
+    position: absolute;
+        top: 2vw;
+        left: 50%;
+        transform: translateX(-50%);
+        height: 5px;
+        width: 30vw;
+        display: flex;
+        gap: 2px;
+        padding: 0 5px;
+        box-sizing: border-box;
+        z-index: 1;
+    }
+
+
+    .story-progress-segment {
+
+      background: rgba(255, 255, 255, 0.2);
+      border-radius: 2px;
+      width:0;
+    }
+
+    /* Active segment */
+    .story-progress-segment.active {
+      width: 100%;
+    }
+    
+
+    .story-viewer-pause{
+      position: absolute;
+      right: 5vw;
+      top: 1.2vw;
+      color: #fff;
+      cursor: pointer;
+      height: 1.8vw;
+      justify-content: center;
+      width: 1.8vw;
+      z-index: 2;
+      display: flex;
+      align-items:center;
+    }
+     .story-viewer-pause span{
+      height: 100%;
+      width: 100%;
+      display:none;
+    }
+    .story-viewer-pause .play-btn{
+  display: flex;
+      height: 70%;
+      width: 70%;
+    }
+    .story-viewer-pause.pause .pause-btn{
+      display:flex;
+    }
+    .story-viewer-pause.pause .play-btn{
+      display:none;
+    }
+
+    
+
+    
+  .story-progress-container {
+    position: absolute;
+    top: 3.5vh;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 51vh;
+    display: flex;
+    gap: 4px;
+    padding:0;
+    z-index: 20;
+  }
+
+  .story-progress-segment {
+    flex: 1;
+    height: 3px;
+    
+    background:rgb(180 180 180 / 30%);
+    overflow: hidden;
+    border-radius: 2px;
+  }
+
+  .story-progress-segment span {
+    display: block;
+    height: 100%;
+    width: 0%;
+    
+    background: #b5b5b5;
+  }
+
+    
+
+.story-viewer .story-content-link{
+position: absolute;
+    z-index: 1;
+    color: #ffffff;
+    height: fit-content;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 1;
+    padding: 0.5vw 0.9vw;
+    
+    background: #ffffff26;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    box-shadow: 0 8px 32px #0000001a, inset 0 1px #ffffff8c, inset 0 -1px #ffffff54, inset 0 0 20px 10px #00000038;
+    border-radius: 5rem;
+    bottom: 4vw;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 0.75vw;
+    font-family: 'Archivo';
+  }
+
+
+    @media screen and (max-width:950px){
+
+      .story-viewer{
+        z-index: 5;
+        display:none !important;
+        background:#ffffff !important;
+        background-color:#ffffff !important;
+        height:100dvh;
+        top:0;
+        left:0;
+        width:100%;
+      }
+      .story-viewer.active{
+        display:flex !important;
+      }
+
+      .story-viewer-container{
+        height: 100%;
+        width: 100%;
+      }
+      .story-progress-container{
+        width:100%;
+            top: 3vw;
+            padding:0 5px;
+      }
+      .story-viewer-close{
+          height: 6vw;
+          width: 6vw;
+          top: 7.5vw;
+          right: 3vw;
+          mix-blend-mode: difference;
+          align-items: center;
+      }
+      .story-viewer-close span{
+           height: 83%;
+        width: 83%;
+      }
+      .story-title{
+  top: 7.5vw;
+          font-size: 3.5vw;
+          left: 3vw;
+      }
+      .story-viewer-navigation {
+      position: absolute;
+      top: 0;
+      height:100%;
+      width: 100%;
+      transform:unset;
+      pointer-events:none;
+    }
+
+    .story-prev, .story-next {
+      height: 100%;
+      width: 30%;
+      color: transparent;
+      background: transparent;
+      border-radius: unset;
+      
+    }
+    .story-viewer.active .story-prev,
+    .story-viewer.active .story-next {
+      pointer-events:all;
+    }
+    .story-prev,
+    .story-next {
+      -webkit-tap-highlight-color: transparent; /* For iOS & Chrome mobile */
+      outline: none; /* Remove focus outline */
+      display:flex !important;
+    }
+    .story-prev { left: 0;}
+    .story-next { right: 0; }
+
+   .story-progress-bar{
+      width: 96%;
+      height: 3px;
+      background: #c6c6c64d;
+      position: absolute;
+      top: 4px;
+      left: 2%;
+    }
+     .story-progress-bar span{
+      display: block;
+      width: 0%;
+      background: #fff;
+      height: 100%;
+    }
+     .story-progress-bar span.inc-prog{
+      width: 100%;
+    }
+
+    .story-viewer-pause {
+      right: 13vw;
+  top: 7.5vw;
+          height: 6vw;
+          width: 6vw;
+          mix-blend-mode: difference;
+    }
+
+.story-viewer .story-content-link{
+font-size: 3vw;
+        padding: 2vw 4.2vw;
+        bottom: 18vw;
+}
+.story-full-media{
+  border-radius:0;
+}
+    }
+</style>
+
+<!-- STORY VIEWER -->
+<div class="story-viewer" id="storyViewer">
+  <div class="story-viewer-overlay"></div>
+  <div class="story-viewer-main">
+    <div class="story-viewer-pause pause">
+      <span class="pause-btn">
+        <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#ffffff">
+          <g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M8 5V19M16 5V19" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path> </g>
+        </svg>
+      </span>
+      <span class="play-btn">
+        <svg
+          viewBox="-3 0 28 28"
+          version="1.1"
+          xmlns="http://www.w3.org/2000/svg"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+          fill="#000000"
+        >
+          <g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <title>play</title> <desc>Created with Sketch Beta.</desc> <defs> </defs> <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage"> <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-417.000000, -569.000000)" fill="#ffffff"> <path d="M418.983,594.247 L418.983,571.722 L436.831,582.984 L418.983,594.247 L418.983,594.247 Z M438.204,581.536 L419.394,569.279 C418.278,568.672 417,568.943 417,570.917 L417,595.052 C417,597.012 418.371,597.361 419.394,596.689 L438.204,584.433 C439.288,583.665 439.258,582.242 438.204,581.536 L438.204,581.536 Z" id="play" sketch:type="MSShapeGroup"> </path> </g> </g> </g>
+        </svg>
+      </span>
+    </div>
+    <div class="story-viewer-close">
+      <span>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          fill="#ffffff"
+          class="bi bi-x-lg"
+          viewBox="0 0 16 16"
+          id="X-Lg--Streamline-Bootstrap"
+          height="16"
+          width="16"
+        >
+          <path d="M2.146 2.854a0.5 0.5 0 1 1 0.708 -0.708L8 7.293l5.146 -5.147a0.5 0.5 0 0 1 0.708 0.708L8.707 8l5.147 5.146a0.5 0.5 0 0 1 -0.708 0.708L8 8.707l-5.146 5.147a0.5 0.5 0 0 1 -0.708 -0.708L7.293 8z" stroke-width="1"></path>
+        </svg>
+      </span>
+    </div>
+    <div class="story-progress-container"></div>
+    <div class="story-viewer-container">
+      <div class="story-inner-slider">
+        
+          <div class="story-slide">
+            <div class="story-progress-container"></div>
+
+            <div class="story-title"></div>
+            
+            <video
+              src="https://cdn.shopify.com/videos/c/o/v/cd417ebef4184c04b792429d8d1eeab3.mp4"
+              autoplay
+              playsinline
+              muted
+              preload="auto"
+              class="story-full-media"
+            ></video>
+            
+            
+              <a href="/collections/most-wanted" class="story-content-link">Most Wanted</a>
+            
+          </div>
+        
+          <div class="story-slide">
+            <div class="story-progress-container"></div>
+
+            <div class="story-title"></div>
+            
+            <video
+              src="https://cdn.shopify.com/videos/c/o/v/31d5ac2ee5c74eb98c1fc20ecf064e79.mp4"
+              autoplay
+              playsinline
+              muted
+              preload="auto"
+              class="story-full-media"
+            ></video>
+            
+            
+              <a href="/collections/new-in" class="story-content-link">New Ins</a>
+            
+          </div>
+        
+      </div>
+    </div>
+    <div class="story-viewer-navigation">
+      <div class="story-prev">&#10094;</div>
+      <div class="story-next">&#10095;</div>
+    </div>
+  </div>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const storyLogo = document.querySelectorAll(".header-story-main");
+  const viewer = document.getElementById("storyViewer");
+  const closeBtn = viewer.querySelector(".story-viewer-close");
+  const nextBtn = viewer.querySelector(".story-next");
+  const prevBtn = viewer.querySelector(".story-prev");
+  const slider = viewer.querySelector(".story-inner-slider");
+  const storyPauseBtn = viewer.querySelector(".story-viewer-pause");
+  const progressContainer = viewer.querySelector(".story-progress-container");
+  const swapContanier = viewer.querySelector(".story-viewer-navigation");
+
+  /* ---------- SESSION STORAGE KEYS ---------- */
+  const STORAGE_CURRENT = "story_current";
+  const STORAGE_LAST = "story_last";
+
+  function saveStoryState() {
+    sessionStorage.setItem(STORAGE_CURRENT, currentStory);
+    sessionStorage.setItem(STORAGE_LAST, lastStoryIndex);
+  }
+
+  function loadStoryState() {
+    const savedCurrent = sessionStorage.getItem(STORAGE_CURRENT);
+    const savedLast = sessionStorage.getItem(STORAGE_LAST);
+
+    if (savedCurrent !== null) currentStory = parseInt(savedCurrent, 10);
+    if (savedLast !== null) lastStoryIndex = parseInt(savedLast, 10);
+  }
+
+  let stories = [
+    
+    {
+      "title": "",
+      "duration": 13,
+      "media":
+        
+          {"type": "video", "url": "https://cdn.shopify.com/videos/c/o/v/cd417ebef4184c04b792429d8d1eeab3.mp4" }
+        
+    },
+    
+    {
+      "title": "",
+      "duration": 5,
+      "media":
+        
+          {"type": "video", "url": "https://cdn.shopify.com/videos/c/o/v/31d5ac2ee5c74eb98c1fc20ecf064e79.mp4" }
+        
+    }
+    
+  ];
+
+  let currentStory = 0;
+  let lastStoryIndex = 0;
+  let timer;
+  let isPaused = false;
+  let startTime = 0;
+  let remainingTime = 0;
+
+  loadStoryState();
+
+  /* ---------- PROGRESS BARS ---------- */
+  progressContainer.innerHTML = "";
+  stories.forEach(() => {
+    const segment = document.createElement("div");
+    segment.className = "story-progress-segment";
+    segment.innerHTML = "<span></span>";
+    progressContainer.appendChild(segment);
+  });
+  const progressSegments = [...progressContainer.querySelectorAll("span")];
+
+  function updateButtons() {
+    prevBtn.style.display = currentStory === 0 ? "none" : "flex";
+    nextBtn.style.display = currentStory === stories.length - 1 ? "none" : "flex";
+  }
+
+  /* ---------- LOAD STORY ---------- */
+  function loadStory() {
+    
+    slider.style.transition = "";
+    slider.style.transform = `translateX(-${currentStory * 100}%)`;
+    updateButtons();
+
+    progressSegments.forEach((seg, i) => {
+      seg.style.transition = "none";
+      seg.style.width = i < currentStory ? "100%" : "0%";
+    });
+
+    const duration = stories[currentStory].duration * 1000;
+    const currentSegment = progressSegments[currentStory];
+
+    currentSegment.style.width = "0%";
+    void currentSegment.offsetWidth;
+    currentSegment.style.transition = `width ${duration / 1000}s linear`;
+    currentSegment.style.width = "100%";
+
+    const slide = slider.children[currentStory];
+    const video = slide.querySelector("video");
+
+    if (video) {
+      video.pause();
+      video.currentTime = 0;
+      video.muted = false;
+      video.play().catch(() => {
+        // autoplay blocked, ignore
+      });
+    }
+
+    isPaused = false;
+    storyPauseBtn.classList.add("pause");
+
+    clearTimeout(timer);
+    remainingTime = duration;
+    startTime = Date.now();
+    timer = setTimeout(nextStory, duration);
+
+    saveStoryState();
+  }
+
+  /* ---------- NEXT / PREV ---------- */
+  function nextStory() {
+    if (currentStory < stories.length - 1) {
+      document.querySelectorAll(".story-full-media").forEach((v)=>{
+        v.pause();
+      })
+      currentStory++;
+      lastStoryIndex = currentStory;
+      saveStoryState();
+      loadStory();
+    } else {
+      // ✅ LAST STORY END
+      currentStory = 0;
+      lastStoryIndex = 0;
+      sessionStorage.removeItem(STORAGE_CURRENT);
+      sessionStorage.removeItem(STORAGE_LAST);
+
+      clearTimeout(timer);
+      closeStory()
+      
+
+    const video = slider.querySelector("video");
+    if (video){
+      video.muted = true;
+      video.pause();
+      video.currentTime = 0;
+    }
+    }
+  }
+
+  function prevStory() {
+    if (currentStory > 0) {
+      currentStory--;
+      document.querySelectorAll(".story-full-media").forEach((v)=>{
+        v.pause();
+      })
+      lastStoryIndex = currentStory;
+      saveStoryState();
+      loadStory();
+    }
+  }
+
+  /* ---------- OPEN / CLOSE ---------- */
+  function openStory() {
+    loadStoryState();
+    lenis.stop();
+    viewer.classList.add("active");
+    currentStory = lastStoryIndex;
+
+    isPaused = false;
+    storyPauseBtn.classList.add("pause");
+    setTimeout(loadStory, 50);
+  }
+
+  function closeStory() {
+    document.querySelectorAll(".story-full-media").forEach((v)=>{
+      v.pause();
+    })
+    document.querySelector(".story-viewer").classList.remove("active");
+    clearTimeout(timer);
+    const video = slider.querySelector("video");
+    if (video) video.pause();
+    lenis.start();
+    saveStoryState();
+  }
+
+  /* ---------- PLAY / PAUSE ---------- */
+  storyPauseBtn.addEventListener("click", () => {
+    isPaused = !isPaused;
+    storyPauseBtn.classList.toggle("pause", !isPaused);
+
+    const slide = slider.children[currentStory];
+    const video = slide.querySelector("video");
+    const currentSegment = progressSegments[currentStory];
+
+    if (isPaused) {
+      clearTimeout(timer);
+      if (video) video.pause();
+
+      const computedWidth = parseFloat(getComputedStyle(currentSegment).width);
+      const parentWidth = parseFloat(getComputedStyle(currentSegment.parentElement).width);
+      const percent = (computedWidth / parentWidth) * 100;
+
+      currentSegment.style.transition = "none";
+      currentSegment.style.width = percent + "%";
+      remainingTime -= (Date.now() - startTime);
+    } else {
+      if (video) video.play();
+
+      currentSegment.style.transition = `width ${remainingTime / 1000}s linear`;
+      currentSegment.style.width = "100%";
+
+      startTime = Date.now();
+      timer = setTimeout(nextStory, remainingTime);
+    }
+  });
+
+  /* ---------- EVENTS ---------- */
+  storyLogo.forEach(story => story.addEventListener("click", openStory));
+  closeBtn.addEventListener("click", closeStory);
+  nextBtn.addEventListener("click", nextStory);
+  prevBtn.addEventListener("click", prevStory);
+
+
+  let startY = 0;
+
+  swapContanier.addEventListener("touchstart", (e) => {
+    startY = e.touches[0].clientY;
+  });
+
+  swapContanier.addEventListener("touchmove", (e) => {
+    const currentY = e.touches[0].clientY;
+    const deltaY = currentY - startY;
+    closeStory()
+  });
+
+});
+
+</script>
+
+
+</div>
+<!-- END sections: header-group -->
+
+    <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
+      <div id="
+
+=== FOOTER HTML ===
+shopify-section-sections--29613230653812__cust_footer_7KB8AP" class="shopify-section shopify-section-group-footer-group"><link href="//row.nishorama.com/cdn/shop/t/42/assets/cust-footer.css?v=49841984926329024981791996821" rel="stylesheet" type="text/css" media="all" />
+<footer class="cust-footer cust-footer--desktop desktop">
+  <div class="cust-footer__inner">
+    <div class="cust-footer__columns">
+      <div class="cust-footer__col cust-footer__col--160">
+        <h2 class="cust-footer__title">Connect with us</h2>
+        <ul class="cust-footer__links list-unstyled" role="list">
+          <li><a href="tel:+919511948736">Call</a></li>
+          <li><a href="https://wa.me/918549000338">Text (WhatsApp)</a></li>
+          <li><a href="https://www.instagram.com/nishorama">Instagram</a></li>
+          <li><a href="https://www.youtube.com/channel/UCoxGe5RNOXVRUboMmW0DLHA">YouTube</a></li>
+        </ul>
+      </div>
+      <div class="cust-footer__col cust-footer__col--200">
+        <h2 class="cust-footer__title">Order Support</h2>
+        <ul class="cust-footer__links list-unstyled" role="list">
+          <li><a href="https://shipglobal.in/tracking/" target="_blank" rel="noopener">Track your order</a></li>
+          <li><a href="/policies/refund-policy">Refund/Exchange policy</a></li>
+          <li><a href="/policies/shipping-policy">Shipping policy</a></li>
+          <li><a href="/pages/faqs">FAQ’s</a></li>
+          <li><a href="/policies/terms-of-service">Terms</a></li>
+        </ul>
+      </div>
+      <div class="cust-footer__col cust-footer__col--160">
+        <h2 class="cust-footer__title">We Are Nishorama</h2>
+        <ul class="cust-footer__links list-unstyled" role="list">
+          <li><a href="/pages/about-us">Our story</a></li>
+          <li><a href="/pages/contact">Contact us</a></li>
+        </ul>
+      </div>
+      <div class="cust-footer__col cust-footer__col--220">
+        <h2 class="cust-footer__title">Nishorama Pvt Ltd</h2>
+        <div class="cust-footer__address"><p><strong>Adress:</strong> NekCapital LLC 16192 coastal highway lewes 19958 deleware</p>
+  <p><strong>Email:</strong> <a href="/cdn-cgi/l/email-protection#a6c1cac9c4c7cae6c8cfd5cec9d4c7cbc788c5c9cb"><span class="__cf_email__" data-cfemail="e98e85868b8885a987809a81869b888488c78a8684">[email&#160;protected]</span></a></p></div>
+      </div>
+    </div>
+
+    <div class="cust-footer__payments">
+      <p class="cust-footer__payments-text">We accept all major payment methods.</p>
+      <ul class="cust-footer__payment-icons list-unstyled" role="list"><li><svg class="cust-footer__payment-icon" width="38" height="24" viewBox="0 0 38 24" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="pi-achdirectdebit"><title id="pi-achdirectdebit">Ach Direct Debit</title><g clip-path="url(#pi-clip0_4778_42)"><path d="M35.038 0h-32a3 3 0 00-3 3v18a3 3 0 003 3h32a3 3 0 003-3V3a3 3 0 00-3-3z" fill="#000" fill-opacity=".07"/><path d="M35.038 1h-32a2 2 0 00-2 2v18a2 2 0 002 2h32a2 2 0 002-2V3a2 2 0 00-2-2z" fill="#fff"/><path d="M7.916 16l2.264-6.984h2.587L15.116 16h-2.147l-.811-2.71a36.86 36.86 0 01-.492-1.827 95.798 95.798 0 01-.436-1.89h.43c-.13.625-.263 1.255-.398 1.89a26.93 26.93 0 01-.454 1.828L10.034 16H7.916zm1.678-1.34v-1.416h3.844v1.415H9.594zm8.962 1.434a3.563 3.563 0 01-1.72-.413 3.011 3.011 0 01-1.205-1.21c-.293-.534-.44-1.187-.44-1.959 0-.778.15-1.434.45-1.968a2.99 2.99 0 011.214-1.21 3.524 3.524 0 011.701-.412c.435 0 .835.06 1.2.178.369.116.692.286.97.51.279.226.504.503.676.83a3.1 3.1 0 01.323 1.126h-1.922a1.216 1.216 0 00-.122-.408.987.987 0 00-.6-.516 1.449 1.449 0 00-.468-.07c-.316 0-.585.078-.807.234a1.403 1.403 0 00-.497.666c-.112.287-.168.634-.168 1.04 0 .425.057.782.173 1.07.116.287.281.502.497.646.219.144.483.216.792.216.175 0 .331-.024.469-.07.137-.047.258-.115.36-.202.104-.088.187-.192.25-.314.065-.122.109-.258.13-.408h1.922a2.61 2.61 0 01-.248.91 3 3 0 01-1.584 1.495c-.385.16-.833.239-1.346.239zM22.494 16V9.016h1.893v2.653H26.9V9.016h1.894V16H26.9v-2.803h-2.512V16h-1.894z" fill="#000"/></g><defs><clipPath id="pi-clip0_4778_42"><path fill="#fff" d="M0 0h38v24H0z"/></clipPath></defs></svg></li><li><svg class="cust-footer__payment-icon" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 38 24" width="38" height="24" aria-labelledby="pi-amazon"><title id="pi-amazon">Amazon</title><path d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" fill="#000" fill-rule="nonzero" opacity=".07"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32" fill="#FFF" fill-rule="nonzero"/><path d="M25.26 16.23c-1.697 1.48-4.157 2.27-6.275 2.27-2.97 0-5.644-1.3-7.666-3.463-.16-.17-.018-.402.173-.27 2.183 1.504 4.882 2.408 7.67 2.408 1.88 0 3.95-.46 5.85-1.416.288-.145.53.222.248.47v.001zm.706-.957c-.216-.328-1.434-.155-1.98-.078-.167.024-.193-.148-.043-.27.97-.81 2.562-.576 2.748-.305.187.272-.047 2.16-.96 3.063-.14.138-.272.064-.21-.12.205-.604.664-1.96.446-2.29h-.001z" fill="#F90" fill-rule="nonzero"/><path d="M21.814 15.291c-.574-.498-.676-.73-.993-1.205-.947 1.012-1.618 1.315-2.85 1.315-1.453 0-2.587-.938-2.587-2.818 0-1.467.762-2.467 1.844-2.955.94-.433 2.25-.51 3.25-.628v-.235c0-.43.033-.94-.208-1.31-.212-.333-.616-.47-.97-.47-.66 0-1.25.353-1.392 1.085-.03.163-.144.323-.3.33l-1.677-.187c-.14-.033-.296-.153-.257-.38.386-2.125 2.223-2.766 3.867-2.766.84 0 1.94.234 2.604.9.842.82.762 1.918.762 3.11v2.818c0 .847.335 1.22.65 1.676.113.164.138.36-.003.482-.353.308-.98.88-1.326 1.2a.367.367 0 0 1-.414.038zm-1.659-2.533c.34-.626.323-1.214.323-1.918v-.392c-1.25 0-2.57.28-2.57 1.82 0 .782.386 1.31 1.05 1.31.487 0 .922-.312 1.197-.82z" fill="#221F1F"/></svg>
+</li><li><svg class="cust-footer__payment-icon" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 38 24" width="38" height="24" aria-labelledby="pi-amazon"><title id="pi-amazon">Amazon</title><path d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" fill="#000" fill-rule="nonzero" opacity=".07"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32" fill="#FFF" fill-rule="nonzero"/><path d="M25.26 16.23c-1.697 1.48-4.157 2.27-6.275 2.27-2.97 0-5.644-1.3-7.666-3.463-.16-.17-.018-.402.173-.27 2.183 1.504 4.882 2.408 7.67 2.408 1.88 0 3.95-.46 5.85-1.416.288-.145.53.222.248.47v.001zm.706-.957c-.216-.328-1.434-.155-1.98-.078-.167.024-.193-.148-.043-.27.97-.81 2.562-.576 2.748-.305.187.272-.047 2.16-.96 3.063-.14.138-.272.064-.21-.12.205-.604.664-1.96.446-2.29h-.001z" fill="#F90" fill-rule="nonzero"/><path d="M21.814 15.291c-.574-.498-.676-.73-.993-1.205-.947 1.012-1.618 1.315-2.85 1.315-1.453 0-2.587-.938-2.587-2.818 0-1.467.762-2.467 1.844-2.955.94-.433 2.25-.51 3.25-.628v-.235c0-.43.033-.94-.208-1.31-.212-.333-.616-.47-.97-.47-.66 0-1.25.353-1.392 1.085-.03.163-.144.323-.3.33l-1.677-.187c-.14-.033-.296-.153-.257-.38.386-2.125 2.223-2.766 3.867-2.766.84 0 1.94.234 2.604.9.842.82.762 1.918.762 3.11v2.818c0 .847.335 1.22.65 1.676.113.164.138.36-.003.482-.353.308-.98.88-1.326 1.2a.367.367 0 0 1-.414.038zm-1.659-2.533c.34-.626.323-1.214.323-1.918v-.392c-1.25 0-2.57.28-2.57 1.82 0 .782.386 1.31 1.05 1.31.487 0 .922-.312 1.197-.82z" fill="#221F1F"/></svg>
+</li><li><svg class="cust-footer__payment-icon" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 38 24" width="38" height="24" fill="none" aria-labelledby="pi-american_express"><title id="pi-american_express">American Express</title><rect x=".5" y=".5" width="37" height="23" rx="2.5" stroke="#000" stroke-opacity=".07" fill="none"/><path d="M35 0H3C1.3 0 0 1.3 0 3V21C0 22.7 1.4 24 3 24H35C36.7 24 38 22.7 38 21V3C38 1.3 36.6 0 35 0Z" fill="#0071CE" style="fill:#0071CE;fill:color(display-p3 0.0000 0.4431 0.8078);fill-opacity:1;"/><path d="M3 0.5H35C36.3348 0.5 37.5 1.58692 37.5 3V21C37.5 22.4239 36.4239 23.5 35 23.5H3C1.66524 23.5 0.5 22.4131 0.5 21V3C0.5 1.57614 1.57614 0.5 3 0.5Z" stroke="black" stroke-opacity="0.07" style="stroke:black;stroke-opacity:0.07;"/><path d="M25.8662 6.33203V3H31L31.8662 5.5332L32.7334 3H37V14.2002H36.7998L34.8672 16.2656L36.7998 18.3594H37V21.2666H33.5996L31.9336 19.3994L30.2002 21.2666H19.4668V12.666H16L20.2666 3H24.4004L25.8662 6.33203ZM20.5996 20.2656H27V18.5322H22.666V17.3994H26.8662V15.666H22.666V14.5322H27V12.7988H20.5996V20.2656ZM30.5332 16.5322L27 20.2656H29.5996L31.8662 17.8662L34.0664 20.2656H36.7324L33.1992 16.4658L36.7324 12.7988H34.1328L31.8662 15.1992L29.7324 12.7988H27L30.5332 16.5322ZM17.666 11.7324H19.9326L20.5332 10.1992H23.999L24.666 11.7324H26.999L23.666 4.19922H20.999L17.666 11.7324ZM33.5996 4.19922L31.9326 8.86621L30.1992 4.19922H27V11.666H29.0664V6.39941L31 11.666H32.7998L34.7324 6.39941V11.666H36.7324V4.13281L33.5996 4.19922ZM23.2656 8.46582H21.2656L22.2656 5.99902L23.2656 8.46582Z" fill="white" style="fill:white;fill-opacity:1;"/></svg>
+</li><li><svg class="cust-footer__payment-icon" version="1.1" xmlns="http://www.w3.org/2000/svg" role="img" x="0" y="0" width="38" height="24" viewBox="0 0 165.521 105.965" xml:space="preserve" aria-labelledby="pi-apple_pay"><title id="pi-apple_pay">Apple Pay</title><path fill="#000" d="M150.698 0H14.823c-.566 0-1.133 0-1.698.003-.477.004-.953.009-1.43.022-1.039.028-2.087.09-3.113.274a10.51 10.51 0 0 0-2.958.975 9.932 9.932 0 0 0-4.35 4.35 10.463 10.463 0 0 0-.975 2.96C.113 9.611.052 10.658.024 11.696a70.22 70.22 0 0 0-.022 1.43C0 13.69 0 14.256 0 14.823v76.318c0 .567 0 1.132.002 1.699.003.476.009.953.022 1.43.028 1.036.09 2.084.275 3.11a10.46 10.46 0 0 0 .974 2.96 9.897 9.897 0 0 0 1.83 2.52 9.874 9.874 0 0 0 2.52 1.83c.947.483 1.917.79 2.96.977 1.025.183 2.073.245 3.112.273.477.011.953.017 1.43.02.565.004 1.132.004 1.698.004h135.875c.565 0 1.132 0 1.697-.004.476-.002.952-.009 1.431-.02 1.037-.028 2.085-.09 3.113-.273a10.478 10.478 0 0 0 2.958-.977 9.955 9.955 0 0 0 4.35-4.35c.483-.947.789-1.917.974-2.96.186-1.026.246-2.074.274-3.11.013-.477.02-.954.022-1.43.004-.567.004-1.132.004-1.699V14.824c0-.567 0-1.133-.004-1.699a63.067 63.067 0 0 0-.022-1.429c-.028-1.038-.088-2.085-.274-3.112a10.4 10.4 0 0 0-.974-2.96 9.94 9.94 0 0 0-4.35-4.35A10.52 10.52 0 0 0 156.939.3c-1.028-.185-2.076-.246-3.113-.274a71.417 71.417 0 0 0-1.431-.022C151.83 0 151.263 0 150.698 0z" /><path fill="#FFF" d="M150.698 3.532l1.672.003c.452.003.905.008 1.36.02.793.022 1.719.065 2.583.22.75.135 1.38.34 1.984.648a6.392 6.392 0 0 1 2.804 2.807c.306.6.51 1.226.645 1.983.154.854.197 1.783.218 2.58.013.45.019.9.02 1.36.005.557.005 1.113.005 1.671v76.318c0 .558 0 1.114-.004 1.682-.002.45-.008.9-.02 1.35-.022.796-.065 1.725-.221 2.589a6.855 6.855 0 0 1-.645 1.975 6.397 6.397 0 0 1-2.808 2.807c-.6.306-1.228.511-1.971.645-.881.157-1.847.2-2.574.22-.457.01-.912.017-1.379.019-.555.004-1.113.004-1.669.004H14.801c-.55 0-1.1 0-1.66-.004a74.993 74.993 0 0 1-1.35-.018c-.744-.02-1.71-.064-2.584-.22a6.938 6.938 0 0 1-1.986-.65 6.337 6.337 0 0 1-1.622-1.18 6.355 6.355 0 0 1-1.178-1.623 6.935 6.935 0 0 1-.646-1.985c-.156-.863-.2-1.788-.22-2.578a66.088 66.088 0 0 1-.02-1.355l-.003-1.327V14.474l.002-1.325a66.7 66.7 0 0 1 .02-1.357c.022-.792.065-1.717.222-2.587a6.924 6.924 0 0 1 .646-1.981c.304-.598.7-1.144 1.18-1.623a6.386 6.386 0 0 1 1.624-1.18 6.96 6.96 0 0 1 1.98-.646c.865-.155 1.792-.198 2.586-.22.452-.012.905-.017 1.354-.02l1.677-.003h135.875" /><g><g><path fill="#000" d="M43.508 35.77c1.404-1.755 2.356-4.112 2.105-6.52-2.054.102-4.56 1.355-6.012 3.112-1.303 1.504-2.456 3.959-2.156 6.266 2.306.2 4.61-1.152 6.063-2.858" /><path fill="#000" d="M45.587 39.079c-3.35-.2-6.196 1.9-7.795 1.9-1.6 0-4.049-1.8-6.698-1.751-3.447.05-6.645 2-8.395 5.1-3.598 6.2-.95 15.4 2.55 20.45 1.699 2.5 3.747 5.25 6.445 5.151 2.55-.1 3.549-1.65 6.647-1.65 3.097 0 3.997 1.65 6.696 1.6 2.798-.05 4.548-2.5 6.247-5 1.95-2.85 2.747-5.6 2.797-5.75-.05-.05-5.396-2.101-5.446-8.251-.05-5.15 4.198-7.6 4.398-7.751-2.399-3.548-6.147-3.948-7.447-4.048" /></g><g><path fill="#000" d="M78.973 32.11c7.278 0 12.347 5.017 12.347 12.321 0 7.33-5.173 12.373-12.529 12.373h-8.058V69.62h-5.822V32.11h14.062zm-8.24 19.807h6.68c5.07 0 7.954-2.729 7.954-7.46 0-4.73-2.885-7.434-7.928-7.434h-6.706v14.894z" /><path fill="#000" d="M92.764 61.847c0-4.809 3.665-7.564 10.423-7.98l7.252-.442v-2.08c0-3.04-2.001-4.704-5.562-4.704-2.938 0-5.07 1.507-5.51 3.82h-5.252c.157-4.86 4.731-8.395 10.918-8.395 6.654 0 10.995 3.483 10.995 8.89v18.663h-5.38v-4.497h-.13c-1.534 2.937-4.914 4.782-8.579 4.782-5.406 0-9.175-3.222-9.175-8.057zm17.675-2.417v-2.106l-6.472.416c-3.64.234-5.536 1.585-5.536 3.95 0 2.288 1.975 3.77 5.068 3.77 3.95 0 6.94-2.522 6.94-6.03z" /><path fill="#000" d="M120.975 79.652v-4.496c.364.051 1.247.103 1.715.103 2.573 0 4.029-1.09 4.913-3.899l.52-1.663-9.852-27.293h6.082l6.863 22.146h.13l6.862-22.146h5.927l-10.216 28.67c-2.34 6.577-5.017 8.735-10.683 8.735-.442 0-1.872-.052-2.261-.157z" /></g></g></svg>
+</li><li><svg class="cust-footer__payment-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="pi-bancontact" role="img" viewBox="0 0 38 24" width="38" height="24"><title id="pi-bancontact">Bancontact</title><path fill="#000" opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path d="M4.703 3.077h28.594c.139 0 .276.023.405.068.128.045.244.11.343.194a.9.9 0 0 1 .229.29c.053.107.08.223.08.34V20.03a.829.829 0 0 1-.31.631 1.164 1.164 0 0 1-.747.262H4.703a1.23 1.23 0 0 1-.405-.068 1.09 1.09 0 0 1-.343-.194.9.9 0 0 1-.229-.29.773.773 0 0 1-.08-.34V3.97c0-.118.027-.234.08-.342a.899.899 0 0 1 .23-.29c.098-.082.214-.148.342-.193a1.23 1.23 0 0 1 .405-.068Z" fill="#fff"/><path d="M6.38 18.562v-3.077h1.125c.818 0 1.344.259 1.344.795 0 .304-.167.515-.401.638.338.132.536.387.536.734 0 .62-.536.91-1.37.91H6.38Zm.724-1.798h.537c.328 0 .468-.136.468-.387 0-.268-.255-.356-.599-.356h-.406v.743Zm0 1.262h.448c.438 0 .693-.093.693-.383 0-.286-.219-.404-.63-.404h-.51v.787Zm3.284.589c-.713 0-1.073-.295-1.073-.69 0-.436.422-.69 1.047-.695.156.002.31.014.464.035v-.105c0-.269-.183-.396-.531-.396a2.128 2.128 0 0 0-.688.105l-.13-.474a3.01 3.01 0 0 1 .9-.132c.767 0 1.147.343 1.147.936v1.222c-.214.093-.615.194-1.136.194Zm.438-.497v-.47a2.06 2.06 0 0 0-.37-.036c-.24 0-.427.08-.427.286 0 .185.156.281.432.281a.947.947 0 0 0 .365-.061Zm1.204.444v-2.106a3.699 3.699 0 0 1 1.177-.193c.76 0 1.198.316 1.198.9v1.399h-.719v-1.354c0-.303-.167-.444-.484-.444a1.267 1.267 0 0 0-.459.079v1.719h-.713Zm4.886-2.167-.135.479a1.834 1.834 0 0 0-.588-.11c-.422 0-.652.25-.652.664 0 .453.24.685.688.685.2-.004.397-.043.578-.114l.115.488a2.035 2.035 0 0 1-.75.128c-.865 0-1.365-.453-1.365-1.17 0-.712.495-1.182 1.323-1.182.27-.001.538.043.787.132Zm1.553 2.22c-.802 0-1.302-.47-1.302-1.178 0-.704.5-1.174 1.302-1.174.807 0 1.297.47 1.297 1.173 0 .708-.49 1.179-1.297 1.179Zm0-.502c.37 0 .563-.259.563-.677 0-.413-.193-.672-.563-.672-.364 0-.568.26-.568.672 0 .418.204.677.568.677Zm1.713.449v-2.106a3.699 3.699 0 0 1 1.177-.193c.76 0
+

@@ -1,0 +1,411 @@
+{
+  "header": {
+    "announcements_count": 0,
+    "announcements_sample": [],
+    "menu_items": [],
+    "drawer_menu_items_count": 0
+  },
+  "story_section": {
+    "count": 0,
+    "sample": []
+  },
+  "hero_banner": {
+    "images": [
+      "//row.nishorama.com/cdn/shop/files/main_bannerrr.jpg?v=1790751224",
+      "//row.nishorama.com/cdn/shop/files/MAIN_SLIDER_BANNER_-_19th_Sept.jpg?v=1789825976"
+    ],
+    "links": [
+      "/collections/most-wanted"
+    ]
+  },
+  "categories": [],
+  "feat1": {
+    "heading": "Featured",
+    "count": 8,
+    "products": [
+      {
+        "url": "/products/white-cotton-pants",
+        "title": "White Loose fitting pants",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/whitepant-hero-AI.jpg?v=1783768645&width=500",
+          "//row.nishorama.com/cdn/shop/files/white_pants.jpg?v=1787580016&width=500"
+        ],
+        "prices": [
+          "$0.00",
+          "$39.00"
+        ]
+      },
+      {
+        "url": "/products/rasha-jacquard-cape-kurti",
+        "title": "Rasha Jacquard Cape Structured Kurti Top",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/4_75b27698-8ab4-4256-871d-c30de3d13799.jpg?v=1784038221&width=500",
+          "//row.nishorama.com/cdn/shop/files/2_32179f35-fe0a-41f3-be62-6ab9be8b0cce.jpg?v=1784038221&width=500"
+        ],
+        "prices": [
+          "$50.00"
+        ]
+      },
+      {
+        "url": "/products/jamna-halter-co-ord-set-h",
+        "title": "Jamna Halter Co-ord Set",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/hero_146e09cb-490c-4c70-810f-45bd864a15ee.jpg?v=1790169259&width=500",
+          "//row.nishorama.com/cdn/shop/files/back_4780b892-a13c-4d40-b0df-06ac4ef7791d.jpg?v=1790169259&width=500"
+        ],
+        "prices": [
+          "$0.00",
+          "$68.00"
+        ]
+      },
+      {
+        "url": "/products/dabu-halter-neck-corset-kurti",
+        "title": "Dabu Halter Corset Kurti Top",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/DABU-HERO-AI_6d535ce6-0c5b-4e51-a966-edb9e2e3c7ab.jpg?v=1786606179&width=500",
+          "//row.nishorama.com/cdn/shop/files/DABU-NEW-BACK-AI.jpg?v=1786606179&width=500"
+        ],
+        "prices": [
+          "$0.00",
+          "$39.00"
+        ]
+      },
+      {
+        "url": "/products/ishaya-skirt-set",
+        "title": "Ishaya Skirt Co-Ord Set",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/hero_06104a0c-1d9b-49c0-b112-ab3175bfbc73.jpg?v=1790169195&width=500",
+          "//row.nishorama.com/cdn/shop/files/back_8023fd14-07bd-4ba5-8d20-05dd401ea9e7.jpg?v=1790169195&width=500"
+        ],
+        "prices": [
+          "$60.00"
+        ]
+      },
+      {
+        "url": "/products/chashni-set",
+        "title": "Chashni Set",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/hero_919f9cc1-bc8a-42d4-becc-bf14ce45e25c.jpg?v=1790168795&width=500",
+          "//row.nishorama.com/cdn/shop/files/back_a04f0c57-eb5b-4e65-8cb1-6648a5c95a0e.jpg?v=1790168795&width=500"
+        ],
+        "prices": [
+          "$85.00"
+        ]
+      }
+    ]
+  },
+  "feat2": {
+    "heading": "Featured",
+    "count": 8,
+    "products": [
+      {
+        "url": "/products/aarti-top",
+        "title": "Aarti Top",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/hero_6ec2d54c-33c4-428a-9089-1206d2d77827.jpg?v=1790659018&width=500",
+          "//row.nishorama.com/cdn/shop/files/4_0d0805c7-4843-4d9c-a4b9-5d33ba810574.jpg?v=1790659018&width=500"
+        ],
+        "prices": [
+          "$55.00"
+        ]
+      },
+      {
+        "url": "/products/payal-sheer-bandhani-kurti",
+        "title": "Payal Sheer Bandhani Kurti Top",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/payal-hero-AI.jpg?v=1783768308&width=500",
+          "//row.nishorama.com/cdn/shop/files/payal-back-AI.jpg?v=1783768308&width=500"
+        ],
+        "prices": [
+          "$0.00",
+          "$47.00"
+        ]
+      },
+      {
+        "url": "/products/umang-kurta",
+        "title": "Umang Kurta",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/hf_20260928_131331_bdd27980-e173-486f-a61b-ed892a43d841.png?v=1790659837&width=500",
+          "//row.nishorama.com/cdn/shop/files/hf_20260928_131320_16952cac-46ac-4a53-84c1-b7a7cea291c3.png?v=1790659837&width=500"
+        ],
+        "prices": [
+          "$50.00"
+        ]
+      },
+      {
+        "url": "/products/ramta-top",
+        "title": "Ramta Top",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/hero_26db0295-89de-4fe4-ac51-b32691e355c3.jpg?v=1790681091&width=500",
+          "//row.nishorama.com/cdn/shop/files/back_b508b472-4050-4b75-9ecc-b34abc0029ac.jpg?v=1790681091&width=500"
+        ],
+        "prices": [
+          "$50.00"
+        ]
+      },
+      {
+        "url": "/products/sanedo-skirt",
+        "title": "Sanedo Skirt",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/15.png?v=1790747616&width=500",
+          "//row.nishorama.com/cdn/shop/files/Sanedo_Back.png?v=1790752931&width=500"
+        ],
+        "prices": [
+          "$50.00"
+        ]
+      },
+      {
+        "url": "/products/jhanjhar-bandhani-corset-kurti",
+        "title": "Jhanjhar Bandhani Corset Kurti Top",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/97.jpg?v=1784032489&width=500",
+          "//row.nishorama.com/cdn/shop/files/101.jpg?v=1784032489&width=500"
+        ],
+        "prices": [
+          "$0.00",
+          "$48.00"
+        ]
+      }
+    ]
+  },
+  "feat3": {
+    "heading": "Featured",
+    "count": 8,
+    "products": [
+      {
+        "url": "/products/dabu-halter-neck-corset-kurti",
+        "title": "Dabu Halter Corset Kurti Top",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/DABU-HERO-AI_6d535ce6-0c5b-4e51-a966-edb9e2e3c7ab.jpg?v=1786606179&width=500",
+          "//row.nishorama.com/cdn/shop/files/DABU-NEW-BACK-AI.jpg?v=1786606179&width=500"
+        ],
+        "prices": [
+          "$0.00",
+          "$39.00"
+        ]
+      },
+      {
+        "url": "/products/jamna-halter-co-ord-set-h",
+        "title": "Jamna Halter Co-ord Set",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/hero_146e09cb-490c-4c70-810f-45bd864a15ee.jpg?v=1790169259&width=500",
+          "//row.nishorama.com/cdn/shop/files/back_4780b892-a13c-4d40-b0df-06ac4ef7791d.jpg?v=1790169259&width=500"
+        ],
+        "prices": [
+          "$0.00",
+          "$68.00"
+        ]
+      },
+      {
+        "url": "/products/saral-asymmetrical-tie-up-top",
+        "title": "Saral Asymmetric Tie-Up Top",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/Saral_01_Hero-W5.jpg?v=1791381605&width=500",
+          "//row.nishorama.com/cdn/shop/files/Saral_03_Outdoor-Paris.jpg?v=1791381605&width=500"
+        ],
+        "prices": [
+          "$45.00"
+        ]
+      },
+      {
+        "url": "/products/moksha-halterneck-top-1",
+        "title": "Moksha Halter Top",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/4_e57fb81e-5c42-42db-b72d-58d261689490.jpg?v=1787293396&width=500",
+          "//row.nishorama.com/cdn/shop/files/2_ec762f66-0373-4d2f-a519-7900f9825e4c.jpg?v=1787293396&width=500"
+        ],
+        "prices": [
+          "$40.00"
+        ]
+      },
+      {
+        "url": "/products/aarti-top",
+        "title": "Aarti Top",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/hero_6ec2d54c-33c4-428a-9089-1206d2d77827.jpg?v=1790659018&width=500",
+          "//row.nishorama.com/cdn/shop/files/4_0d0805c7-4843-4d9c-a4b9-5d33ba810574.jpg?v=1790659018&width=500"
+        ],
+        "prices": [
+          "$55.00"
+        ]
+      },
+      {
+        "url": "/products/jashn-full-sleeve-kurti-1",
+        "title": "Jashn Full Sleeve Structured Kurti Top",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/3_7508d2e6-dd5b-4f7e-b1aa-43021eba3922.jpg?v=1783946263&width=500",
+          "//row.nishorama.com/cdn/shop/files/4_e77f742b-3dd2-4f8c-bd8a-b2c0bbc0cf09.jpg?v=1783946263&width=500"
+        ],
+        "prices": [
+          "$0.00",
+          "$57.00"
+        ]
+      }
+    ]
+  },
+  "feat4": {
+    "heading": "Featured",
+    "count": 6,
+    "products": [
+      {
+        "url": "/products/aarti-top",
+        "title": "Aarti Top",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/hero_6ec2d54c-33c4-428a-9089-1206d2d77827.jpg?v=1790659018&width=500",
+          "//row.nishorama.com/cdn/shop/files/4_0d0805c7-4843-4d9c-a4b9-5d33ba810574.jpg?v=1790659018&width=500"
+        ],
+        "prices": [
+          "$55.00"
+        ]
+      },
+      {
+        "url": "/products/umang-kurta",
+        "title": "Umang Kurta",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/hf_20260928_131331_bdd27980-e173-486f-a61b-ed892a43d841.png?v=1790659837&width=500",
+          "//row.nishorama.com/cdn/shop/files/hf_20260928_131320_16952cac-46ac-4a53-84c1-b7a7cea291c3.png?v=1790659837&width=500"
+        ],
+        "prices": [
+          "$50.00"
+        ]
+      },
+      {
+        "url": "/products/falguni-sleeved-kurti",
+        "title": "Falguni Sleeved Kurti",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/7_a95eb3dc-1ac2-4e2f-b9d1-b9aeda72f248.jpg?v=1790659407&width=500",
+          "//row.nishorama.com/cdn/shop/files/9_9c8b0906-e0d8-4e4e-9c47-3236b48ec1fc.jpg?v=1790659407&width=500"
+        ],
+        "prices": [
+          "$50.00"
+        ]
+      },
+      {
+        "url": "/products/chunar-bralette",
+        "title": "Chunar Bralette",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/hero_7c74eb23-3d52-4638-be3e-4863c756b6bd.jpg?v=1790683209&width=500",
+          "//row.nishorama.com/cdn/shop/files/back_d3caeb2c-e3d7-4483-9f23-cdb3d062f67f.jpg?v=1790683208&width=500"
+        ],
+        "prices": [
+          "$60.00"
+        ]
+      },
+      {
+        "url": "/products/sanedo-skirt",
+        "title": "Sanedo Skirt",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/15.png?v=1790747616&width=500",
+          "//row.nishorama.com/cdn/shop/files/Sanedo_Back.png?v=1790752931&width=500"
+        ],
+        "prices": [
+          "$50.00"
+        ]
+      },
+      {
+        "url": "/products/ramta-top",
+        "title": "Ramta Top",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/hero_26db0295-89de-4fe4-ac51-b32691e355c3.jpg?v=1790681091&width=500",
+          "//row.nishorama.com/cdn/shop/files/back_b508b472-4050-4b75-9ecc-b34abc0029ac.jpg?v=1790681091&width=500"
+        ],
+        "prices": [
+          "$50.00"
+        ]
+      }
+    ]
+  },
+  "feat5": {
+    "heading": "Featured",
+    "count": 6,
+    "products": [
+      {
+        "url": "/products/dabu-halter-neck-corset-kurti",
+        "title": "Dabu Halter Corset Kurti Top",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/DABU-HERO-AI_6d535ce6-0c5b-4e51-a966-edb9e2e3c7ab.jpg?v=1786606179&width=500",
+          "//row.nishorama.com/cdn/shop/files/DABU-NEW-BACK-AI.jpg?v=1786606179&width=500"
+        ],
+        "prices": [
+          "$0.00",
+          "$39.00"
+        ]
+      },
+      {
+        "url": "/products/poo-t-shirt-kurti-1",
+        "title": "Poo T-Shirt",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/POO-hero-AI_9c082303-57e9-4265-a566-276e19d520ee.jpg?v=1783513172&width=500",
+          "//row.nishorama.com/cdn/shop/files/POO-back-AI_f81e3138-e5bd-45e9-85be-823ef5b4df47.jpg?v=1783513172&width=500"
+        ],
+        "prices": [
+          "$45.00"
+        ]
+      },
+      {
+        "url": "/products/kum-kum-deep-back-short-kurti",
+        "title": "Kum-Kum Open-Back Kurti Top",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/kumkum-hero-AI.jpg?v=1783921642&width=500",
+          "//row.nishorama.com/cdn/shop/files/kumkum-back-AI.jpg?v=1783921642&width=500"
+        ],
+        "prices": [
+          "$44.00"
+        ]
+      },
+      {
+        "url": "/products/jharna-sheer-short-kurti",
+        "title": "Jharna Sheer Short Kurti",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/1_efe88a2c-e8ef-4509-a657-b22685546a6c.jpg?v=1781848354&width=500",
+          "//row.nishorama.com/cdn/shop/files/2_eaa97b11-b452-43f1-a80c-7a03f761f57b.jpg?v=1781848354&width=500"
+        ],
+        "prices": [
+          "$45.00"
+        ]
+      },
+      {
+        "url": "/products/roshni-kaftan-kurti",
+        "title": "Roshni Kaftan Structured Kurti Top",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/1_0b1eea70-b28e-4129-a069-e22297fbcf0f.jpg?v=1786352096&width=500",
+          "//row.nishorama.com/cdn/shop/files/2_4f750044-fdb5-4a48-a31f-7b6e63be0a75.jpg?v=1786352096&width=500"
+        ],
+        "prices": [
+          "$49.00"
+        ]
+      },
+      {
+        "url": "/products/astha-corset-kurti",
+        "title": "ASTHA CORSET KURTI",
+        "images": [
+          "//row.nishorama.com/cdn/shop/files/astha-hero-ai.jpg?v=1783769006&width=500",
+          "//row.nishorama.com/cdn/shop/files/astha-back-ai.jpg?v=1783769007&width=500"
+        ],
+        "prices": [
+          "$45.00"
+        ]
+      }
+    ]
+  },
+  "banner1": [
+    "//row.nishorama.com/cdn/shop/files/most_wanted_-_19th_Sept.jpg?v=1789969035",
+    "//row.nishorama.com/cdn/shop/files/Navratri_launch.jpg?v=1790755270"
+  ],
+  "banner2": [
+    "//row.nishorama.com/cdn/shop/files/most_wanted_-_19th_Sept.jpg?v=1789969035",
+    "//row.nishorama.com/cdn/shop/files/Most_Wanted.jpg?v=1790755318"
+  ],
+  "banner3": [
+    "//row.nishorama.com/cdn/shop/files/most_wanted_-_19th_Sept.jpg?v=1789969035",
+    "//row.nishorama.com/cdn/shop/files/Festive.jpg?v=1790755350"
+  ],
+  "banner4": [
+    "//row.nishorama.com/cdn/shop/files/most_wanted_-_19th_Sept.jpg?v=1789969035",
+    "//row.nishorama.com/cdn/shop/files/Curated_Tops.jpg?v=1790755393"
+  ],
+  "banner5": [
+    "//row.nishorama.com/cdn/shop/files/most_wanted_-_19th_Sept.jpg?v=1789969035",
+    "//row.nishorama.com/cdn/shop/files/Curated_topss.jpg?v=1790755436"
+  ]
+}
