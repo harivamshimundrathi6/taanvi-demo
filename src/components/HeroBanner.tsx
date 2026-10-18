@@ -124,6 +124,7 @@ export const HeroBanner: React.FC<HeroBannerProps> = ({ onExplore }) => {
       {/* 2. LAYER 2: GIANT 'TAANVI' TEXT (BEHIND THE FOREGROUND MODELS - LOCKSCREEN DEPTH EFFECT) */}
       {/* As the user scrolls up, this moves gracefully upward towards the top-left */}
       <div 
+        className="hero-taanvi-text"
         style={{
           position: 'absolute',
           top: '18%',
@@ -145,7 +146,7 @@ export const HeroBanner: React.FC<HeroBannerProps> = ({ onExplore }) => {
             display: 'block',
             fontFamily: "'Archivo', 'Impact', sans-serif",
             fontWeight: 900,
-            fontSize: 'clamp(5.5rem, 18.5vw, 19.5rem)',
+            fontSize: 'clamp(4.2rem, 18.5vw, 19.5rem)',
             lineHeight: 0.85,
             letterSpacing: '0.04em',
             textTransform: 'uppercase',
@@ -192,23 +193,26 @@ export const HeroBanner: React.FC<HeroBannerProps> = ({ onExplore }) => {
       }} />
 
       {/* 5. LAYER 5: Floating Centered Capsule Pill Link ('NISHOTSAV2' / 'SHOP ALL') */}
-      <div style={{
-        position: 'absolute',
-        left: '50%',
-        bottom: '8vw',
-        transform: 'translateX(-50%)',
-        zIndex: 10,
-        textAlign: 'center'
-      }}>
+      <div 
+        className="hero-cta-box"
+        style={{
+          position: 'absolute',
+          left: '50%',
+          bottom: '72px',
+          transform: 'translateX(-50%)',
+          zIndex: 10,
+          textAlign: 'center'
+        }}
+      >
         <button
           onClick={() => onExplore(slide.category)}
           style={{
             background: '#FFFFFF',
             color: '#510C1A',
             borderRadius: '7rem',
-            padding: '12px 34px',
+            padding: '12px 32px',
             fontFamily: "'Archivo', sans-serif",
-            fontSize: 'clamp(0.85rem, 1vw, 1.1rem)',
+            fontSize: 'clamp(0.82rem, 1vw, 1.05rem)',
             fontWeight: 800,
             letterSpacing: '0.08em',
             textTransform: 'uppercase',
@@ -234,32 +238,35 @@ export const HeroBanner: React.FC<HeroBannerProps> = ({ onExplore }) => {
         </button>
       </div>
 
-      {/* 6. LAYER 6: Bottom Slide Pagination Dots */}
-      <div style={{
-        position: 'absolute',
-        bottom: '3vh',
-        left: 0,
-        width: '100%',
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'center',
-        gap: '10px',
-        zIndex: 10
-      }}>
+      {/* 6. LAYER 6: Bottom Slide Pagination Dots (Separated from CTA) */}
+      <div 
+        className="hero-dots-box"
+        style={{
+          position: 'absolute',
+          bottom: '22px',
+          left: 0,
+          width: '100%',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          gap: '8px',
+          zIndex: 10
+        }}
+      >
         {SLIDES.map((_, idx) => (
           <button
             key={idx}
             onClick={() => setCurrentSlide(idx)}
             aria-label={`Go to slide ${idx + 1}`}
             style={{
-              width: idx === currentSlide ? '24px' : '8px',
-              height: '8px',
-              borderRadius: '4px',
-              background: idx === currentSlide ? '#FFFFFF' : 'rgba(255, 255, 255, 0.45)',
+              width: idx === currentSlide ? '22px' : '8px',
+              height: '6px',
+              borderRadius: '3px',
+              background: idx === currentSlide ? '#FFFFFF' : 'rgba(255, 255, 255, 0.55)',
               border: 'none',
               cursor: 'pointer',
               transition: 'all 0.3s ease',
-              boxShadow: '0 0 2px 1px rgba(0,0,0,0.3)'
+              boxShadow: '0 1px 4px rgba(0,0,0,0.4)'
             }}
           />
         ))}

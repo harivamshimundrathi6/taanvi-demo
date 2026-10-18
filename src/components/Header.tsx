@@ -93,6 +93,7 @@ export const Header: React.FC<HeaderProps> = ({
     <>
       {/* Floating Header Bar with Dynamic Sticky Behavior matching Nishorama */}
       <header 
+        className="mobile-header-bar"
         style={{
           position: 'fixed',
           top: isScrolled ? 0 : '36px',
@@ -121,7 +122,7 @@ export const Header: React.FC<HeaderProps> = ({
           <div style={{ 
             display: 'flex', 
             alignItems: 'center', 
-            gap: '10px', 
+            gap: '8px', 
             pointerEvents: 'auto',
             flex: '0 0 auto',
             zIndex: 10
@@ -135,7 +136,7 @@ export const Header: React.FC<HeaderProps> = ({
                 transform: isScrolled ? 'translateX(0) scale(1)' : 'translateX(-20px) scale(0.8)',
                 transition: 'all 0.35s cubic-bezier(0.16, 1, 0.3, 1)',
                 overflow: 'hidden',
-                marginRight: isScrolled ? '14px' : 0,
+                marginRight: isScrolled ? '10px' : 0,
                 display: 'flex',
                 alignItems: 'center'
               }}
@@ -145,13 +146,14 @@ export const Header: React.FC<HeaderProps> = ({
                 onClick={(e) => { e.preventDefault(); onNavigatePage("home"); }}
                 style={{ display: 'inline-flex', alignItems: 'center' }}
               >
-                <TaanviLogo height={30} variant="maroon" />
+                <TaanviLogo height={26} variant="maroon" />
               </a>
             </div>
 
             {/* Nishorama Signature 'Menu' Capsule Pill (Dark Brown #482922) */}
             <button
               onClick={() => setIsMobileMenuOpen(true)}
+              className="mobile-menu-btn"
               style={{
                 background: '#482922',
                 borderRadius: '50px',
@@ -292,6 +294,7 @@ export const Header: React.FC<HeaderProps> = ({
             <button
               onClick={onOpenStories}
               title="Watch Taanvi Stories"
+              className="mobile-action-icon"
               style={{
                 width: '36px',
                 height: '36px',
@@ -308,7 +311,7 @@ export const Header: React.FC<HeaderProps> = ({
             >
               <svg 
                 className="animate-spin"
-                style={{ position: 'absolute', inset: -2, width: '40px', height: '40px' }}
+                style={{ position: 'absolute', inset: -2, width: '100%', height: '100%' }}
                 viewBox="0 0 100 100"
               >
                 <circle
@@ -342,6 +345,7 @@ export const Header: React.FC<HeaderProps> = ({
             <button
               onClick={onOpenWishlist}
               title="Saved items"
+              className="mobile-action-icon"
               style={{
                 width: '36px',
                 height: '36px',
@@ -357,7 +361,7 @@ export const Header: React.FC<HeaderProps> = ({
                 position: 'relative'
               }}
             >
-              <Bookmark size={18} />
+              <Bookmark size={17} />
               {wishlistCount > 0 && (
                 <span style={{
                   position: 'absolute',
@@ -383,6 +387,7 @@ export const Header: React.FC<HeaderProps> = ({
             <button
               onClick={onOpenSearch}
               title="Search store"
+              className="mobile-action-icon"
               style={{
                 width: '36px',
                 height: '36px',
@@ -397,13 +402,14 @@ export const Header: React.FC<HeaderProps> = ({
                 color: '#382218'
               }}
             >
-              <Search size={18} />
+              <Search size={17} />
             </button>
 
-            {/* Account / Concierge Button */}
+            {/* Account / Concierge Button (Hidden on small mobile to give room for Cart) */}
             <button
               onClick={() => onNavigatePage("contact")}
               title="Taanvi Concierge"
+              className="desktop-only"
               style={{
                 width: '36px',
                 height: '36px',
@@ -425,14 +431,15 @@ export const Header: React.FC<HeaderProps> = ({
             <button
               onClick={onOpenCart}
               title="View Bag"
+              className="mobile-cart-btn"
               style={{
                 background: '#FFFFFF',
                 borderRadius: '50px',
-                padding: '7px 18px',
+                padding: '7px 16px',
                 boxShadow: '0 2px 10px rgba(0,0,0,0.15)',
                 display: 'flex',
                 alignItems: 'center',
-                gap: '8px',
+                gap: '6px',
                 border: 'none',
                 cursor: 'pointer',
                 color: '#382218',
@@ -442,7 +449,7 @@ export const Header: React.FC<HeaderProps> = ({
                 whiteSpace: 'nowrap'
               }}
             >
-              <ShoppingBag size={17} />
+              <ShoppingBag size={16} />
               <span>Cart | {cartCount}</span>
             </button>
 

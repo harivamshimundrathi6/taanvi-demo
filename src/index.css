@@ -146,6 +146,36 @@ img, video {
   }
 }
 
+/* Mobile specific fixes */
+@media (max-width: 768px) {
+  .mobile-header-bar {
+    padding: 10px 14px !important;
+  }
+  .mobile-menu-btn {
+    padding: 6px 12px 6px 10px !important;
+    font-size: 0.78rem !important;
+  }
+  .mobile-action-icon {
+    width: 32px !important;
+    height: 32px !important;
+  }
+  .mobile-cart-btn {
+    padding: 6px 12px !important;
+    font-size: 0.75rem !important;
+  }
+  .hero-taanvi-text {
+    top: 22% !important;
+    font-size: clamp(3.8rem, 20vw, 6.5rem) !important;
+    letter-spacing: -0.01em !important;
+  }
+  .hero-cta-box {
+    bottom: 50px !important;
+  }
+  .hero-dots-box {
+    bottom: 18px !important;
+  }
+}
+
 /* Rich buttons and interactive states */
 .btn-taanvi-primary {
   background: var(--color-brand-maroon);
